@@ -5,7 +5,7 @@ import pandas as pd
 from google.cloud import storage
 
 """
-Pre-reqs: 
+Pre-reqs:
 1. `pip install pandas pyarrow google-cloud-storage`
 2. Set GOOGLE_APPLICATION_CREDENTIALS to your project/service-account key
 3. Set GCP_GCS_BUCKET as your bucket or change default value of BUCKET
